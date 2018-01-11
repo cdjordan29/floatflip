@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__floatflip.o
+[PROJECT FILES]
+G:\Radford Classes\itec320 - Ada\Program2\program_two.gpr
+20170217171812
+[BOUND OBJECT FILES]
+G:\Radford Classes\itec320 - Ada\Program2\obj\floatflip.o
+[GENERATED SOURCE FILES]
+b__floatflip.ads
+b__floatflip.adb
+b__floatflip.ali
+[RESULTING OPTIONS]
+-LG:\Radford Classes\itec320 - Ada\Program2\obj\
+-LG:\Radford Classes\itec320 - Ada\Program2\obj\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000

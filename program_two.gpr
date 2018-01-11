@@ -1,0 +1,4 @@
+project program_two is 
+   for main use ("floatflip.adb");
+   for object_dir use "obj";
+end program_two;
